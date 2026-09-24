@@ -68,28 +68,28 @@ plt.plot(
     positions,
     coeff2,
     marker="o",
-    label="Zernike Index 2"
+    label="Zernike Index 1"
 )
 
 plt.plot(
     positions,
     coeff3,
     marker="o",
-    label="Zernike Index 3"
+    label="Zernike Index 2"
 )
 
 plt.plot(
     positions,
     coeff4,
     marker="o",
-    label="Zernike Index 4"
+    label="Zernike Index 3"
 )
 
 plt.plot(
     positions,
     coeff5,
     marker="o",
-    label="Zernike Index 5"
+    label="Zernike Index 4"
 )
 
 
