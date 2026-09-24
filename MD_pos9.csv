@@ -1,0 +1,110 @@
+Thorlabs Shack-Hartmann Wavefront Sensor
+
+Model                  ,       WFS300-14AR
+Serial Number          ,       M00253102
+
+Date MM-DD-YYYY        ,       09-15-2026
+Time HH:MM:SS          ,       15:19:33
+
+
+*** CAMERA ***
+Camera Type            ,       Thorlabs DCU224M
+Camera SN              ,       4002764580
+Resolution X           ,       768
+Resolution Y           ,       768
+Exposure Time [ms]     ,       0.079
+Master Gain            ,       1.000
+Averages               ,       1
+Average Type           ,       Normal
+
+
+*** BEAM ***
+Beam Center X [mm]     ,      -0.012
+Beam Center Y [mm]     ,       0.770
+Beam Diameter X [mm]   ,       3.020
+Beam Diameter Y [mm]   ,       2.891
+
+
+*** PUPIL ***
+Circular               ,       1
+Use Beam Centroid      ,       1
+Use Beam Dia           ,       0
+Wavefront Calc In Pupil,       0
+Pupil Diameter X [mm]  ,       3.000
+Pupil Diameter Y [mm]  ,       3.000
+Pupil Center X [mm]    ,      -0.012
+Pupil Center Y [mm]    ,       0.770
+
+
+*** ZERNIKE FIT ***
+Zernike Orders Auto    ,       0
+Zernike Orders         ,       4
+Zernike Modes          ,       15
+Unit                   ,       µm
+Index  Order  Frequency  Coefficient
+   1,     0,     0,        5.089
+   2,     1,    -1,       -4.897
+   3,     1,     1,       -5.060
+   4,     2,    -2,       -0.224
+   5,     2,     0,        4.626
+   6,     2,     2,        0.643
+   7,     3,    -3,       -0.345
+   8,     3,    -1,        0.168
+   9,     3,     1,       -0.098
+  10,     3,     3,       -0.069
+  11,     4,    -4,        0.008
+  12,     4,    -2,        0.063
+  13,     4,     0,        0.062
+  14,     4,     2,        0.105
+  15,     4,     4,       -0.072
+
+Fit Error Mean [arcmin]  ,   4.260e-10
+Fit Error StdDev [arcmin],   4.258e-04
+
+
+*** RMS WAVEFRONT VARIATIONS ***
+Unit                   ,       µm
+Order  Variation
+   0,      5.089
+   1,      7.041
+   2,      4.676
+   3,      0.402
+   4,      0.156
+
+
+*** FOURIER NOTATION ***
+Fourier Order          ,       2
+Fourier M              ,     -14.244
+Fourier J0             ,      -1.399
+Fourier J45            ,       0.488
+
+
+*** OPTOMETRIC NOTATION ***
+Optometric Sphere [dpt],     -12.761
+Optometric Cyl. [dpt]  ,      -2.964
+Optometric Axis [deg]  ,      80.380
+
+Radius of Curvature[mm],     -70.207
+
+
+*** WAVEFRONT ***
+Reference              ,       User Calibrated Reference
+Unit                   ,       µm
+Wavelength [nm]        ,        633.000
+Type                   ,       Measured
+Calculation Area       ,       entire area
+PV                     ,      40.299
+RMS                    ,       8.319
+RMS weighted           ,       5.805
+Spots X                ,       9
+Spots Y                ,       9
+y / x [mm],    -1.200,    -0.900,    -0.600,    -0.300,     0.000,     0.300,     0.600,     0.900,     1.200,
+     1.200,    20.601,    14.147,     9.469,     6.261,     4.254,     3.609,     4.289,     6.368,     9.918,
+     0.900,    17.569,    11.364,     6.720,     3.401,     1.366,     0.577,     1.105,     3.100,     6.641,
+     0.600,    15.870,     9.754,     5.125,     1.748,    -0.376,    -1.280,    -0.823,     1.152,     4.657,
+     0.300,    15.488,     9.294,     4.691,     1.317,    -0.860,    -1.804,    -1.374,     0.577,     4.080,
+     0.000,    16.621,    10.177,     5.548,     2.225,     0.000,    -0.897,    -0.453,     1.484,     5.029,
+    -0.300,    19.396,    12.722,     7.918,     4.496,     2.236,     1.416,     1.952,     3.971,     7.534,
+    -0.600,    23.740,    16.613,    11.597,     8.186,     5.925,     5.113,     5.761,     7.876,    11.446,
+    -0.900,    29.930,    22.120,    16.626,    13.048,    10.911,    10.224,    10.925,    13.066,    16.658,
+    -1.200,    38.495,    29.616,    23.305,    19.374,    17.176,    16.528,    17.367,    19.554,    23.162,
