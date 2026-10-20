@@ -1,0 +1,50 @@
+Thorlabs Shack-Hartmann Wavefront Sensor
+
+Model                  ,       WFS300-14AR
+Serial Number          ,       M00253102
+
+Date MM-DD-YYYY        ,       10-13-2026
+Time HH:MM:SS          ,       15:08:33
+
+
+*** CAMERA ***
+Camera Type            ,       Thorlabs DCU224M
+Camera SN              ,       4002764580
+Resolution X           ,       768
+Resolution Y           ,       768
+Exposure Time [ms]     ,       9.996
+Master Gain            ,       1.000
+Averages               ,       1
+Average Type           ,       Normal
+
+
+*** BEAM ***
+Beam Center X [mm]     ,       0.016
+Beam Center Y [mm]     ,      -0.194
+Beam Diameter X [mm]   ,       3.983
+Beam Diameter Y [mm]   ,       3.687
+
+
+*** PUPIL ***
+Circular               ,       1
+Use Beam Centroid      ,       1
+Use Beam Dia           ,       0
+Wavefront Calc In Pupil,       0
+Pupil Diameter X [mm]  ,       3.000
+Pupil Diameter Y [mm]  ,       3.000
+Pupil Center X [mm]    ,       0.016
+Pupil Center Y [mm]    ,      -0.194
+
+
+*** CENTROIDS [pixels] ***
+Centroids X            ,       9
+Centroids Y            ,       9
+     NaN,     NaN,      NaN,     NaN,      NaN,     NaN,  183.051,  93.361,  263.152,  88.518,  344.962,  86.144,  428.265,  86.058,  511.752,  87.267,  591.047,  91.929, 
+     NaN,     NaN,      NaN,     NaN,   98.370, 173.813,  180.274, 170.322,  262.521, 170.133,  345.552, 169.500,  428.460, 169.844,  511.331, 169.836,  594.645, 169.881, 
+     NaN,     NaN,      NaN,     NaN,   96.276, 252.982,  179.644, 252.708,  261.757, 254.213,  345.515, 249.046,  428.357, 253.079,  511.317, 252.820,  594.870, 253.654, 
+     NaN,     NaN,      NaN,     NaN,   96.629, 337.315,  181.033, 336.520,  263.056, 336.996,  345.397, 336.640,  428.990, 336.162,  512.911, 337.193,  595.669, 337.100, 
+     NaN,     NaN,      NaN,     NaN,   95.949, 419.930,  180.514, 420.096,  262.718, 420.393,  345.243, 420.238,  428.528, 420.623,  513.503, 420.584,  596.211, 420.404, 
+     NaN,     NaN,      NaN,     NaN,   96.036, 504.663,  180.189, 505.236,  261.390, 503.944,  346.285, 504.014,  429.097, 504.457,  510.872, 502.981,  594.620, 504.356, 
+     NaN,     NaN,      NaN,     NaN,   96.574, 588.287,  179.499, 587.448,  263.007, 587.460,  344.908, 587.672,  427.549, 587.804,  512.260, 587.494,  595.142, 586.957, 
+     NaN,     NaN,      NaN,     NaN,   97.618, 671.556,  181.169, 671.197,  263.755, 671.162,  345.365, 670.565,  430.224, 671.947,  511.743, 670.489,  595.719, 670.485, 
+     NaN,     NaN,      NaN,     NaN,      NaN,     NaN,      NaN,     NaN,      NaN,     NaN,      NaN,     NaN,      NaN,     NaN,      NaN,     NaN,      NaN,     NaN, 
